@@ -1,1 +1,1 @@
-'Hello from {crans-0780}'
+echo 'Hello from {crans-0780}'>{crans-0780_iiitk}.txt
